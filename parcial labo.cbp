@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="parcial labo" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/parcial labo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/parcial labo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="libreriaMascotas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libreriaMascotas.h" />
+		<Unit filename="libreriaPaises.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libreriaPaises.h" />
+		<Unit filename="libreriaRazas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libreriaRazas.h" />
+		<Unit filename="libreriaRazasMascotas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libreriaRazasMascotas.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="utn_getData.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="utn_getData.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

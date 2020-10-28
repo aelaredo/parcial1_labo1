@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1602631339 source:/home/aelaredo/Documents/Proyectos C/parcial labo/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"libreriaRazasMascotas.h"
+	"libreriaMascotas.h"
+	"libreriaRazas.h"
+	"libreriaPaises.h"
+	"utn_getData.h"
+
+1602631275 source:/home/aelaredo/Documents/Proyectos C/parcial labo/libreriaMascotas.c
+	"libreriaMascotas.h"
+	"libreriaRazasMascotas.h"
+	"libreriaPaises.h"
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"utn_getData.h"
+
+1602607518 /home/aelaredo/Documents/Proyectos C/parcial labo/libreriaMascotas.h
+
+1602629945 source:/home/aelaredo/Documents/Proyectos C/parcial labo/libreriaRazas.c
+	"libreriaRazas.h"
+	"libreriaPaises.h"
+	"utn_getData.h"
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+
+1602628863 /home/aelaredo/Documents/Proyectos C/parcial labo/libreriaRazas.h
+	"libreriaPaises.h"
+
+1602632027 source:/home/aelaredo/Documents/Proyectos C/parcial labo/libreriaRazasMascotas.c
+	"libreriaRazas.h"
+	"libreriaRazasMascotas.h"
+	"libreriaMascotas.h"
+	"libreriaPaises.h"
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+
+1602631275 /home/aelaredo/Documents/Proyectos C/parcial labo/libreriaRazasMascotas.h
+	"libreriaMascotas.h"
+	"libreriaRazas.h"
+	"libreriaPaises.h"
+
+1602625211 source:/home/aelaredo/Documents/Proyectos C/parcial labo/utn_getData.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"utn_getData.h"
+
+1602625211 /home/aelaredo/Documents/Proyectos C/parcial labo/utn_getData.h
+
+1602627366 source:/home/aelaredo/Documents/Proyectos C/parcial labo/libreriaPaises.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"libreriaPaises.h"
+
+1602632000 /home/aelaredo/Documents/Proyectos C/parcial labo/libreriaPaises.h
+
